@@ -1,0 +1,38 @@
+_repo: Once-on-a-Time_27771
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, Charles
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31464'
+    url: http://www.gutenberg.org/2009/agents/31464
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Miln, Alen Aleksander
+    - Milne, Alan Alexander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2009-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Fantasy literature'
+- !lcc 'PR'
+title: Once on a Time
+url: http://www.gutenberg.org/ebooks/27771
